@@ -1,4 +1,5 @@
-# CS106.K21
+## CS106.K21
+#Trên hệ điều hành Window
 Tiến hành clone toàn bộ các file về, giải nén vào một thư mục bất kỳ
 Tiến hành cài đặt Python bản mới nhất
 Sau đó vào CMD hoặc Windows Powershell chạy dưới quyền quản trị Administrator, nhập lệnh sau để cài đặt các thư viện cần thiết
