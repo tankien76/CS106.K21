@@ -1,5 +1,5 @@
 ## CS106.K21
-# Hướng dẫn chạy ứng dụng trên hệ điều hành Window
+# Hướng dẫn chạy ứng dụng trên hệ điều hành Windows
 * Tiến hành clone toàn bộ các file về, giải nén vào một thư mục bất kỳ
 * Tiến hành cài đặt Python bản mới nhất
 * Sau đó vào CMD hoặc Windows Powershell chạy dưới quyền quản trị Administrator, nhập lệnh sau để cài đặt các thư viện cần thiết<br/>
